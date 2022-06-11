@@ -1,4 +1,4 @@
-### Hi there <img src='https://user-images.githubusercontent.com/24523985/162473007-059780c3-11df-455c-958c-a4672e95e123.gif' style='width:25px'/> 
+### Hi there <img src='https://user-images.githubusercontent.com/24523985/162473007-059780c3-11df-455c-958c-a4672e95e123.gif' width='25'/> 
 I'm Barış. My motto is 👇
 
 <table>
