@@ -1,27 +1,7 @@
 ### Hi there <img src='https://user-images.githubusercontent.com/24523985/162473007-059780c3-11df-455c-958c-a4672e95e123.gif' width='25'/> 
-I'm Barış. My motto is 👇
-
-<table>
-  <tr>
-     <td><img src='https://media.giphy.com/media/gEvab1ilmJjA82FaSV/giphy.gif' height='150' /></td>
-     <td><img src='https://media.giphy.com/media/xT39D7GQo1m3LatZyU/giphy.gif' height='150'/></td>
-     <td><img src='https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif' height='150'/></td>   
-  </tr>
-  <tr>
-     <td align='center'>💡 Think</td>
-     <td align='center'>📐 Design</td>
-     <td align='center'>💻 Code</td>
-  </tr>
-</table>
-
+I'm Barış. My motto is 💡 Think - 📐 Design - 💻 Code
 
  👋 I make designs and develop applications to explain my ideas to people. 
-
- 🚀 Here I will share the open source projects I have developed.
-
- 🤝 You can contribute to them.
-
- 🦄 Who knows, maybe we can start the next startup with you.
 
  📫 You can reach me with the following platforms
 
