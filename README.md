@@ -23,6 +23,7 @@ And I use this technologies
   <a href='https://www.w3schools.com/html/' target="_blank"><img alt='html5' src='https://user-images.githubusercontent.com/24523985/163832316-1324f940-1da8-4824-93c0-fa377e10a620.png' width='20'/><a/>
   
 📱
+    <a href='https://reactjs.org/' target="_blank"><img alt='react' src='https://user-images.githubusercontent.com/24523985/163834375-04e65bdf-0dec-440d-a9be-941bcaf41b24.png' width='20'/><a/>
   <a href='https://cordova.apache.org/' target="_blank"><img alt='cordova' src='https://user-images.githubusercontent.com/24523985/163832640-81c8aebf-8380-478f-af63-b75bbfe1cb13.png' width='20'/><a/>
   <a href='https://docs.microsoft.com/en-us/xamarin/get-started/what-is-xamarin' target="_blank"><img alt='xamarin' src='https://user-images.githubusercontent.com/24523985/163832646-b53627ec-84bb-41ae-b127-2930e6af2381.png' width='20'/><a/>
 
